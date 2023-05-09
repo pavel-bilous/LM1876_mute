@@ -6,7 +6,7 @@ From the datasheet, if a logic high (1.5 to 5V) is applied to the MUTE pin, the 
 
 The goal is to mute the amp during the turn on (and turn off). For that a logic high needs to be applied to the MUTE pin when amp is turned on, but after 1 or 2 seconds wait time the MUTE pin should be pulled low (< 1.5V).
 
-Simple circuit that allows for that consists of :
+Simple circuit that achieves the goal consists of:
 * 5V zener regulator
 * RC time delay
 * NOT logic gate
