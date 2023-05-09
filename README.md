@@ -24,3 +24,6 @@ Only one 22uF capacitor needs to be used.
 
 ## PCB layout
 ![Screenshot](imgs/pcb.png)
+
+## LTSpice simulation
+![Screenshot](imgs/sim.png)
