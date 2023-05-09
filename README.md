@@ -23,6 +23,9 @@ Only one 22uF capacitor needs to be used.
 ![Screenshot](imgs/sch.png)
 
 ## PCB layout
+
+Headers can be directly connected on top of the amplifier board in my other repository for LM1876 board.
+
 ![Screenshot](imgs/pcb.png)
 
 ## LTSpice simulation
